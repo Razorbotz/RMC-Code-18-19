@@ -1,0 +1,2 @@
+communication:logic:messages:power_distribution_panel:publisher_test:scoop_drum:subscriber_test:talon:victor
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/SoftwareDevelopment/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/SoftwareDevelopment/ROS/install -G Unix Makefiles

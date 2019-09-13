@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/talon.dir/talon.cpp.o  -o bin/talon -rdynamic -Wl,-Bstatic -lCTRE_Phoenix -lCTRE_PhoenixCCI -lCTRE_PhoenixPlatform_socketcan -lCTRE_PhoenixCanutils -Wl,-Bdynamic -lpthread 

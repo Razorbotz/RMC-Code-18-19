@@ -1,0 +1,8 @@
+prefix=/home/nvidia/SoftwareDevelopment/ROS/install
+
+Name: scoop_drum
+Description: Description of scoop_drum
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/SoftwareDevelopment/ROS/install/lib 
+Requires: 

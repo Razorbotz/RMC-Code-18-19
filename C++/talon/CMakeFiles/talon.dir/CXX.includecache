@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/SoftwareDevelopment/C++/talon/talon.cpp
+ctre/Phoenix.h
+/home/nvidia/SoftwareDevelopment/C++/talon/ctre/Phoenix.h
+ctre/phoenix/platform/Platform.h
+/home/nvidia/SoftwareDevelopment/C++/talon/ctre/phoenix/platform/Platform.h
+ctre/phoenix/unmanaged/Unmanaged.h
+/home/nvidia/SoftwareDevelopment/C++/talon/ctre/phoenix/unmanaged/Unmanaged.h
+string
+-
+iostream
+-
+chrono
+-
+thread
+-
+SDL2/SDL.h
+-
+unistd.h
+-
+

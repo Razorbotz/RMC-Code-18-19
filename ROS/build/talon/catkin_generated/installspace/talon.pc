@@ -1,0 +1,8 @@
+prefix=/home/nvidia/SoftwareDevelopment/ROS/install
+
+Name: talon
+Description: Description of talon
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nvidia/SoftwareDevelopment/ROS/install/lib 
+Requires: messages

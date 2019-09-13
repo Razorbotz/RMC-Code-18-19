@@ -1,0 +1,14 @@
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/nvidia/SoftwareDevelopment/C++/talon/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9d26d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9d26d.dir/build.make CMakeFiles/cmTC_9d26d.dir/build
+make[1]: Entering directory '/home/nvidia/SoftwareDevelopment/C++/talon/bin/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9d26d.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_9d26d.dir/CheckIncludeFile.c.o   -c /home/nvidia/SoftwareDevelopment/C++/talon/bin/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9d26d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9d26d.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_9d26d.dir/CheckIncludeFile.c.o  -o cmTC_9d26d -rdynamic 
+make[1]: Leaving directory '/home/nvidia/SoftwareDevelopment/C++/talon/bin/CMakeFiles/CMakeTmp'
+
+

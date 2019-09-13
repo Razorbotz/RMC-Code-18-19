@@ -1,0 +1,3 @@
+/home/wgjohns/SoftwareDevelopment/C++/control/CMakeFiles/edit_cache.dir
+/home/wgjohns/SoftwareDevelopment/C++/control/CMakeFiles/control.dir
+/home/wgjohns/SoftwareDevelopment/C++/control/CMakeFiles/rebuild_cache.dir
